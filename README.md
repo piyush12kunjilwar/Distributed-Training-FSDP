@@ -8,7 +8,7 @@
 - **GPU:** NVIDIA L4 (23.7GB, 58 SMs)
 - **RAM:** 56.9GB High RAM runtime
 - **CUDA:** 12.8 | **PyTorch:** 2.10
-
+ 
 ---
  
 ## Model — LLaMA-style Transformer (37.4M params)
