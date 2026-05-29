@@ -25,7 +25,7 @@ Built from scratch with exact LLaMA design choices:
 | Architecture | Pre-norm | More stable training |
 
 ---
-
+   
 ## Results
 
 ### Memory Profiling — Where Memory Goes
