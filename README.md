@@ -111,7 +111,7 @@ Three sharding strategies:
 
 FSDP communication pattern:
 ```
-Forward:  AllGather  → reconstruct full layer from shards
+Forward:  AllGather  → reconstruct full layer from shards  
 Backward: ReduceScatter → shard gradients back across GPUs
 ```
 
