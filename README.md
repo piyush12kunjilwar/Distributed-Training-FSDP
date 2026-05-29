@@ -50,7 +50,7 @@ Rule: Total ≈ 16 × parameters in bytes
 
 Key insight: `loss = loss / accum_steps`
 Without this line — gradients are 4x too large
-
+  
 ### Mixed Precision Training (AMP)
 | Config | Latency | Tokens/sec | Memory |
 |--------|---------|-----------|--------|
