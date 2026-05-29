@@ -36,7 +36,7 @@ Model weights     ~0.15GB      9%
 Activations       ~0.5GB      31%
 Gradients         ~0.15GB      9%
 Optimizer states  ~0.3GB      19%
-─────────────────────────────────────
+─────────────────────────────────────  
 Rule: Total ≈ 16 × parameters in bytes
       16 = 4(weights) + 4(grads) + 8(Adam moments)
 ```
