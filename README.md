@@ -173,7 +173,7 @@ NVIDIA L4 GPU · CUDA 12.8 · Python 3.12
 ```
 
 ---
-
+  
 ## Part of ML Systems Optimization Suite
 - ✅ Module 1 — Inference Optimization (ONNX + Quantization)
 - ✅ Module 2 — CUDA Kernel Optimization (Triton + Flash Attention)
