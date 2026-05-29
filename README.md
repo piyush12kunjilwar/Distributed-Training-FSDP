@@ -157,7 +157,7 @@ With FSDP across 4 × A100 GPUs:
 
 | Claim | Proof |
 |-------|-------|
-| PyTorch FSDP workloads | Implemented FULL_SHARD strategy |
+| PyTorch FSDP workloads | Implemented FULL_SHARD strategy |  
 | Gradient accumulation | 50.4% memory savings measured |
 | NCCL communication tuning | AllGather/ReduceScatter benchmarked |
 | Mixed precision training | 1.10x speedup, 9.6% throughput gain |
