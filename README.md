@@ -23,7 +23,7 @@ Built from scratch with exact LLaMA design choices:
 | Bias terms | None | Cleaner gradients |
 | Weight tying | embed ↔ lm_head | Fewer parameters |
 | Architecture | Pre-norm | More stable training |
-
+  
 ---
    
 ## Results
