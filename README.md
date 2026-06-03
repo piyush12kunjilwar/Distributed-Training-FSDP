@@ -145,7 +145,7 @@ For LLaMA-7B (7 billion parameters):
   → Doesn't fit on ONE GPU
 
 With FSDP across 4 × A100 GPUs:
-  Memory per GPU = 112GB / 4 = 28GB ✅
+  Memory per GPU = 112GB / 4 = 28GB ✅   
   Throughput = 4x (near linear scaling)
   → This is how Meta trained LLaMA
   → This is what we implemented
