@@ -52,7 +52,7 @@ Key insight: `loss = loss / accum_steps`
 Without this line — gradients are 4x too large
   
 ### Mixed Precision Training (AMP)
-| Config | Latency | Tokens/sec | Memory |
+| Config | Latency | Tokens/sec | Memory |  
 |--------|---------|-----------|--------|
 | FP32 Baseline | 88.3ms | 23,186 | 2.621GB |
 | **AMP FP16** | **80.6ms** | **25,409** | 3.076GB |
