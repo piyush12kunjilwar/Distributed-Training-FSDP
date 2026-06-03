@@ -30,7 +30,7 @@ Built from scratch with exact LLaMA design choices:
 
 ### Memory Profiling — Where Memory Goes
 ```
-Component         Memory    % of Total
+Component         Memory    % of Total  
 ─────────────────────────────────────
 Model weights     ~0.15GB      9%
 Activations       ~0.5GB      31%
