@@ -12,7 +12,7 @@
 ---
  
 ## Model — LLaMA-style Transformer (37.4M params)
-
+   
 Built from scratch with exact LLaMA design choices:
 
 | Component | Choice | Why |
