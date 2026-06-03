@@ -64,7 +64,7 @@ Without this line — gradients are 4x too large
 | FP32 Baseline | 88.3ms | 23,186 | 2.621GB |
 | AMP FP16 | 80.6ms | 25,409 | 3.076GB |
 | FSDP + AMP | 153.9ms | 13,310 | 3.918GB |
-
+   
 > Note: FSDP overhead is expected on single GPU —
 > designed for multi-GPU where memory scales as 1/N.
 > Projected 4-GPU throughput: ~53,000 tokens/second
