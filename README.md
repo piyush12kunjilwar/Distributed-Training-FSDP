@@ -151,7 +151,7 @@ With FSDP across 4 × A100 GPUs:
   → This is what we implemented
 ```
 
----
+--- 
 
 ## Resume Evidence
 
