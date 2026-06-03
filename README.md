@@ -96,7 +96,7 @@ for i in range(accum_steps):
 optimizer.step()               # Single update after N chunks
 ```
 Result: 50.4% memory reduction, identical effective batch size
-
+   
 ### 3. Mixed Precision (AMP)
 - Forward/backward: FP16 (fast, half memory for activations)
 - Master weights: FP32 (numerically stable)
