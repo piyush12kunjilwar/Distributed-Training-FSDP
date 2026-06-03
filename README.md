@@ -1,7 +1,7 @@
 # Distributed Training with FSDP 🚀
 
 > LLaMA-style transformer training with PyTorch FSDP,
-> Mixed Precision, Gradient Accumulation and NCCL —
+> Mixed Precision, Gradient Accumulation and NCCL — 
 > proving every claim from production ML experience 
  
 ## Hardware
