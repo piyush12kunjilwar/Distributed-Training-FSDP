@@ -2,7 +2,7 @@
 
 > LLaMA-style transformer training with PyTorch FSDP,
 > Mixed Precision, Gradient Accumulation and NCCL —
-> proving every claim from production ML experience
+> proving every claim from production ML experience 
  
 ## Hardware
 - **GPU:** NVIDIA L4 (23.7GB, 58 SMs)  
