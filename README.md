@@ -81,7 +81,7 @@ Without this line — gradients are 4x too large
 
 ## Key Concepts Implemented    
 
-### 1. Memory Profiling
+### 1. Memory Profiling   
 Measured exact memory cost of each training component:
 - Weights, activations, gradients, optimizer states
 - Proved: Total ≈ 16 bytes per parameter for FP32 AdamW
