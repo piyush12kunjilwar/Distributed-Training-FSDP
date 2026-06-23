@@ -79,7 +79,7 @@ Without this line — gradients are 4x too large
 
 ---
 
-## Key Concepts Implemented
+## Key Concepts Implemented    
 
 ### 1. Memory Profiling
 Measured exact memory cost of each training component:
