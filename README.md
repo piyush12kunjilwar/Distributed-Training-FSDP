@@ -70,7 +70,7 @@ Without this line — gradients are 4x too large
 > Projected 4-GPU throughput: ~53,000 tokens/second
 
 ### FSDP Multi-GPU Scaling Projection
-| GPUs | Memory/GPU | Projected Tok/sec |
+| GPUs | Memory/GPU | Projected Tok/sec |  
 |------|-----------|------------------|
 | 1 | 3.918GB | 13,310 |
 | 2 | 1.959GB | 22,627 |
