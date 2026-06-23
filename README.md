@@ -15,7 +15,7 @@
    
 Built from scratch with exact LLaMA design choices:
 
-| Component | Choice | Why |
+| Component | Choice | Why |   
 |-----------|--------|-----|
 | Normalization | RMSNorm | Faster than LayerNorm |
 | Position encoding | RoPE | Better long context |
