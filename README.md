@@ -161,7 +161,7 @@ With FSDP across 4 × A100 GPUs:
 | Gradient accumulation | 50.4% memory savings measured |
 | NCCL communication tuning | AllGather/ReduceScatter benchmarked |
 | Mixed precision training | 1.10x speedup, 9.6% throughput gain |
-| 40% cost reduction | Grad accum reduces AllReduce calls by Nx |
+| 40% cost reduction | Grad accum reduces AllReduce calls by Nx |  
 
 ---
 
