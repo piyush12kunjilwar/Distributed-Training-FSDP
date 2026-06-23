@@ -90,7 +90,7 @@ Measured exact memory cost of each training component:
 ### 2. Gradient Accumulation
 ```python
 for i in range(accum_steps):
-    _, loss = model(x_chunk, targets_chunk)
+    _, loss = model(x_chunk, targets_chunk)   
     loss = loss / accum_steps  # Critical normalization!
     loss.backward()            # Gradients accumulate in .grad
 optimizer.step()               # Single update after N chunks
