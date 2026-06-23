@@ -22,7 +22,7 @@ Built from scratch with exact LLaMA design choices:
 | Activation | SwiGLU | Better than ReLU/GELU |
 | Bias terms | None | Cleaner gradients |
 | Weight tying | embed ↔ lm_head | Fewer parameters |
-| Architecture | Pre-norm | More stable training |
+| Architecture | Pre-norm | More stable training |   
   
 ---
    
