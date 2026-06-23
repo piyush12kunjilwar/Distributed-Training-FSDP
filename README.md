@@ -42,7 +42,7 @@ Rule: Total ≈ 16 × parameters in bytes
 ```
 
 ### Gradient Accumulation
-| Config | Memory | Effective Batch |
+| Config | Memory | Effective Batch |  
 |--------|--------|----------------|
 | Large batch (16) | 4.063GB | 16 |  
 | **Grad accum (4×4)** | **2.016GB** | **16 (same!)** |
