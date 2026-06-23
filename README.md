@@ -154,7 +154,7 @@ With FSDP across 4 × A100 GPUs:
 --- 
 
 ## Resume Evidence
-
+   
 | Claim | Proof |
 |-------|-------|
 | PyTorch FSDP workloads | Implemented FULL_SHARD strategy |  
